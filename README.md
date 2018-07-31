@@ -4,9 +4,9 @@ A curated list of awesome scientific software and research software.
 This list contains only open-source projects and is focussed on, but not restricted to, mathematical software.
 
  1. Mathematics
-   1. Linear Algebra
-   2. Optimization
-   3. Model Reduction
+    1. Linear Algebra
+    2. Optimization
+    3. Model Reduction
 
 ## Linear Algebra
 
