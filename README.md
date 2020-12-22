@@ -11,7 +11,7 @@ This list contains only open-source projects and is focussed on, but not restric
 ## Linear Algebra
 
  * [FlexiBLAS](https://www.mpi-magdeburg.mpg.de/projects/flexiblas) - A BLAS wrapper library with runtime exchangable backends. {C, Fortran, Octave}
- * [M.E.S.S](https://www.mpi-magdeburg.mpg.de/projects/mess) - Matrix Equation Sparse Solver. {C, Python, Matlab, Octave}
+ * [M.E.S.S.](https://www.mpi-magdeburg.mpg.de/projects/mess) - Matrix Equation Sparse Solver. {C, Python, Matlab, Octave}
 
 ## Optimization
 
@@ -20,7 +20,8 @@ This list contains only open-source projects and is focussed on, but not restric
 
 ## Model Reduction
 
- * [emgr](http://gramian.de) - EMpirical GRamian framework for (nonlinear) input-output systems. {Matlab, Octave}
+ * [emgr](http://gramian.de) - EMpirical GRamian framework for (nonlinear) input-output systems. {Matlab, Octave, Python}
  * [hapod](https://github.com/gramian/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition. {Matlab, Octave}
+ * [morgen](https://github.com/mpimd-csc/morgen) - Model Order Reduction for Gas and Energy Networks. {Matlab, Octave}
  * [MORLAB](https://www.mpi-magdeburg.mpg.de/projects/morlab) - Model Order Reduction LABoratory. {Matlab, Octave}
  * [pyMOR](https://pymor.org) - Model Order Reduction with Python. {Python}
